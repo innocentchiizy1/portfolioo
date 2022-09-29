@@ -8,7 +8,7 @@ loadingPage.classList.add('close')
 
 setTimeout(function(){
 removeLoadingPage()
-}, 5000)
+}, 7000)
 
 
 
@@ -202,7 +202,7 @@ $(document).ready(function() {
 
 
 var typed = new Typed(".typing",{
-    strings: [,'Frontend Developer', 'Backend Developer', 'Graphic Designer', 'Content Creator', 'Freelancer'],
+    strings: [,'Fullstack Developer'],
     typeSpeed: 100,
     backSpeed: 50,
     loop:true

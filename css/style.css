@@ -402,18 +402,27 @@ span {
 }
 .item-three {
   background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
-    url(../images/vesco.png);
+    url(../images/franell.png);
   height: 80vh;
 }
 .item-three:hover {
-  background-image: url(../images/vesco.png);
+  background-image: url(../images/franell.png);
 }
 .item-four {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
+    url(../images/vesco.png);
+  height: 80vh;
+}
+.item-four:hover {
+  background-image: url(../images/vesco.png);
+}
+
+.item-five {
   background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
     url(../images/relivv.png);
   height: 80vh;
 }
-.item-four:hover {
+.item-five:hover {
   background-image: url(../images/relivv.png);
 }
 
