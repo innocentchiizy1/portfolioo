@@ -386,35 +386,35 @@ span {
 
 .item-one {
   background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
-    url(../images/Screenshot\\(71\).png);
+    url(../images/Screenshot\ \(71\).png);
   height: 80vh;
 }
 .item-one:hover {
-  background-image: url(../images/Screenshot\\(71\).png);
+  background-image: url(../images/Screenshot\ \(71\).png);
 }
 .item-two {
   background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
-    url(../images/Screenshot\\(73\).png);
+    url(../images/Screenshot\ \(73\).png);
   height: 80vh;
 }
 .item-two:hover {
-  background-image: url(../images/Screenshot\\(73\).png);
+  background-image: url(../images/Screenshot\ \(73\).png);
 }
 .item-three {
   background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
-    url(../images/Screenshot\\(79\).png);
+    url(../images/Screenshot\ \(79\).png);
   height: 80vh;
 }
 .item-three:hover {
-  background-image: url(../images/Screenshot\\(79\).png);
+  background-image: url(../images/Screenshot\ \(79\).png);
 }
 .item-four {
   background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
-    url(../images/Screenshot\\(77\).png);
+    url(../images/Screenshot\ \(77\).png);
   height: 80vh;
 }
 .item-four:hover {
-  background-image: url(../images/Screenshot\\(77\).png);
+  background-image: url(../images/Screenshot\ \(77\).png);
 }
 
 h2:hover {
